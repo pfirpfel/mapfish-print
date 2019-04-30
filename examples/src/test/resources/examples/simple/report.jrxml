@@ -16,7 +16,7 @@
 	<property name="net.sf.jasperreports.export.pdfa.conformance" value="pdfa1a"/>
 	<property name="net.sf.jasperreports.export.pdf.tagged" value="true"/>
 	<property name="net.sf.jasperreports.export.pdfa.icc.profile.path" value="AdobeRGB1998.icc"/>
-	<style name="Default" isDefault="true" fontName="Liberation Sans"/>
+	<style name="Default" isDefault="true" fontName="Cadastra"/>
 	<parameter name="title" class="java.lang.String"/>
 	<parameter name="mapSubReport" class="java.lang.String"/>
 	<title>
@@ -24,7 +24,7 @@
 			<textField>
 				<reportElement x="0" y="1" width="800" height="50" forecolor="#187ECC" uuid="3988392b-f1e2-4eda-9cb4-7caa2b3eb0cc"/>
 				<textElement textAlignment="Center">
-					<font size="36" fontName="Liberation Sans"/>
+					<font size="36" fontName="Cadastra"/>
 				</textElement>
 				<textFieldExpression><![CDATA[$P{title}]]></textFieldExpression>
 			</textField>

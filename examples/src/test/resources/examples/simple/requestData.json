@@ -16,11 +16,11 @@
           "style": {
             "version": "2",
             "*": {
-              "fontFamily": "Liberation Sans",
+              "fontFamily": "Cadastra",
               "symbolizers": [
                 {
                   "type" : "polygon",
-                  "fontFamily": "Liberation Sans",
+                  "fontFamily": "Cadastra",
                   "fillColor": "#5E7F99",
                   "fillOpacity": 1,
                   "strokeColor": "#CC1D18",
