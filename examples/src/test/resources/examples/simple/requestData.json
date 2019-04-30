@@ -16,9 +16,11 @@
           "style": {
             "version": "2",
             "*": {
+              "fontFamily": "Liberation Sans",
               "symbolizers": [
                 {
                   "type" : "polygon",
+                  "fontFamily": "Liberation Sans",
                   "fillColor": "#5E7F99",
                   "fillOpacity": 1,
                   "strokeColor": "#CC1D18",
