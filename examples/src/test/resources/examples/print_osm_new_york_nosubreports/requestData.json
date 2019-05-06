@@ -20,7 +20,7 @@
                     "styles": ["line"],
                     "customParams":
                     {
-                        "TRANSPARENT": "true"
+                        "TRANSPARENT": "false"
                     }
                 },
                 {
